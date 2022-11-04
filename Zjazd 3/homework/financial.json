@@ -1,0 +1,1002 @@
+[
+  {
+    "index": 0,
+    "_id": "5c01097e566bb68fe9611b25",
+    "cost": "434.25",
+    "detailsOfPayent": {
+      "Type": 3,
+      "company": "ECSTASIA",
+      "date": "09-07-2014"
+    }
+  },
+  {
+    "index": 1,
+    "_id": "5c01097e9064d87c919ab54e",
+    "cost": "665.39",
+    "detailsOfPayent": {
+      "Type": 2,
+      "company": "MANGELICA",
+      "date": "28-04-2014"
+    }
+  },
+  {
+    "index": 2,
+    "_id": "5c01097eea1776599cec240f",
+    "cost": "562.57",
+    "detailsOfPayent": {
+      "Type": 4,
+      "company": "CODAX",
+      "date": "07-05-2014"
+    }
+  },
+  {
+    "index": 3,
+    "_id": "5c01097ed2ba2275ffee328a",
+    "cost": "439.35",
+    "detailsOfPayent": {
+      "Type": 3,
+      "company": "CODAX",
+      "date": "04-11-2014"
+    }
+  },
+  {
+    "index": 4,
+    "_id": "5c01097e887cd23299cbd468",
+    "cost": "950.13",
+    "detailsOfPayent": {
+      "Type": 2,
+      "company": "ECSTASIA",
+      "date": "05-01-2014"
+    }
+  },
+  {
+    "index": 5,
+    "_id": "5c01097ee8822e5fb2ba30a6",
+    "cost": "310.46",
+    "detailsOfPayent": {
+      "Type": 4,
+      "company": "CODAX",
+      "date": "06-04-2014"
+    }
+  },
+  {
+    "index": 6,
+    "_id": "5c01097eb21c2f11c861b1cc",
+    "cost": "133.3",
+    "detailsOfPayent": {
+      "Type": 2,
+      "company": "MANGELICA",
+      "date": "28-04-2014"
+    }
+  },
+  {
+    "index": 7,
+    "_id": "5c01097e424722729a4178f9",
+    "cost": "58.31",
+    "detailsOfPayent": {
+      "Type": 3,
+      "company": "ECSTASIA",
+      "date": "23-11-2014"
+    }
+  },
+  {
+    "index": 8,
+    "_id": "5c01097eec04333a96de0cbe",
+    "cost": "719.86",
+    "detailsOfPayent": {
+      "Type": 1,
+      "company": "CODAX",
+      "date": "18-06-2014"
+    }
+  },
+  {
+    "index": 9,
+    "_id": "5c01097e35ed4c647a4396f8",
+    "cost": "893.12",
+    "detailsOfPayent": {
+      "Type": 1,
+      "company": "CODAX",
+      "date": "25-04-2014"
+    }
+  },
+  {
+    "index": 10,
+    "_id": "5c01097ec508b9a3e4a2a160",
+    "cost": "641.58",
+    "detailsOfPayent": {
+      "Type": 3,
+      "company": "MANGELICA",
+      "date": "15-05-2014"
+    }
+  },
+  {
+    "index": 11,
+    "_id": "5c01097e307542650d00a1e3",
+    "cost": "430.51",
+    "detailsOfPayent": {
+      "Type": 3,
+      "company": "CODAX",
+      "date": "04-11-2014"
+    }
+  },
+  {
+    "index": 12,
+    "_id": "5c01097eafb8dc10a7883b35",
+    "cost": "870.87",
+    "detailsOfPayent": {
+      "Type": 3,
+      "company": "ECSTASIA",
+      "date": "30-07-2014"
+    }
+  },
+  {
+    "index": 13,
+    "_id": "5c01097e940bd99df331bf8c",
+    "cost": "57.91",
+    "detailsOfPayent": {
+      "Type": 2,
+      "company": "MANGELICA",
+      "date": "23-05-2014"
+    }
+  },
+  {
+    "index": 14,
+    "_id": "5c01097ea0f5d5e7dde7fabc",
+    "cost": "574.05",
+    "detailsOfPayent": {
+      "Type": 4,
+      "company": "CODAX",
+      "date": "20-06-2014"
+    }
+  },
+  {
+    "index": 15,
+    "_id": "5c01097efca93aac62ecd276",
+    "cost": "981.76",
+    "detailsOfPayent": {
+      "Type": 5,
+      "company": "ECSTASIA",
+      "date": "18-02-2014"
+    }
+  },
+  {
+    "index": 16,
+    "_id": "5c01097e8272033acd58b235",
+    "cost": "834.36",
+    "detailsOfPayent": {
+      "Type": 1,
+      "company": "CODAX",
+      "date": "28-07-2014"
+    }
+  },
+  {
+    "index": 17,
+    "_id": "5c01097ebd8aa57b2bd1c4cf",
+    "cost": "978.36",
+    "detailsOfPayent": {
+      "Type": 1,
+      "company": "ECSTASIA",
+      "date": "25-12-2014"
+    }
+  },
+  {
+    "index": 18,
+    "_id": "5c01097e868c63d10da93513",
+    "cost": "205.67",
+    "detailsOfPayent": {
+      "Type": 2,
+      "company": "ECSTASIA",
+      "date": "10-01-2015"
+    }
+  },
+  {
+    "index": 19,
+    "_id": "5c01097e062a1599a4bfb1ea",
+    "cost": "228.26",
+    "detailsOfPayent": {
+      "Type": 3,
+      "company": "ECSTASIA",
+      "date": "24-01-2015"
+    }
+  },
+  {
+    "index": 20,
+    "_id": "5c01097e8ea5088f8859b304",
+    "cost": "811.51",
+    "detailsOfPayent": {
+      "Type": 4,
+      "company": "MANGELICA",
+      "date": "17-04-2014"
+    }
+  },
+  {
+    "index": 21,
+    "_id": "5c01097e66879143b8946c0d",
+    "cost": "282.04",
+    "detailsOfPayent": {
+      "Type": 1,
+      "company": "MANGELICA",
+      "date": "23-09-2014"
+    }
+  },
+  {
+    "index": 22,
+    "_id": "5c01097ee6afa99ea8c61a52",
+    "cost": "276.83",
+    "detailsOfPayent": {
+      "Type": 4,
+      "company": "ECSTASIA",
+      "date": "27-03-2014"
+    }
+  },
+  {
+    "index": 23,
+    "_id": "5c01097e8b21183073147633",
+    "cost": "454.36",
+    "detailsOfPayent": {
+      "Type": 3,
+      "company": "CODAX",
+      "date": "01-03-2014"
+    }
+  },
+  {
+    "index": 24,
+    "_id": "5c01097e73744ad30be8dd34",
+    "cost": "89.98",
+    "detailsOfPayent": {
+      "Type": 1,
+      "company": "CODAX",
+      "date": "09-02-2014"
+    }
+  },
+  {
+    "index": 25,
+    "_id": "5c01097e8fae8b886d71dd42",
+    "cost": "224.13",
+    "detailsOfPayent": {
+      "Type": 2,
+      "company": "CODAX",
+      "date": "16-05-2014"
+    }
+  },
+  {
+    "index": 26,
+    "_id": "5c01097e4aff567794f49d42",
+    "cost": "186.88",
+    "detailsOfPayent": {
+      "Type": 2,
+      "company": "MANGELICA",
+      "date": "25-05-2014"
+    }
+  },
+  {
+    "index": 27,
+    "_id": "5c01097efb9f75e85cb1deb5",
+    "cost": "394.96",
+    "detailsOfPayent": {
+      "Type": 5,
+      "company": "MANGELICA",
+      "date": "10-12-2014"
+    }
+  },
+  {
+    "index": 28,
+    "_id": "5c01097e0c0b97a5d668e85b",
+    "cost": "190.07",
+    "detailsOfPayent": {
+      "Type": 3,
+      "company": "CODAX",
+      "date": "23-01-2015"
+    }
+  },
+  {
+    "index": 29,
+    "_id": "5c01097e886dbe286f13e733",
+    "cost": "714.41",
+    "detailsOfPayent": {
+      "Type": 3,
+      "company": "MANGELICA",
+      "date": "01-01-2015"
+    }
+  },
+  {
+    "index": 30,
+    "_id": "5c01097e354b68ad8446ab66",
+    "cost": "934.12",
+    "detailsOfPayent": {
+      "Type": 5,
+      "company": "CODAX",
+      "date": "26-03-2014"
+    }
+  },
+  {
+    "index": 31,
+    "_id": "5c01097e468bba5789a7d4e8",
+    "cost": "767.05",
+    "detailsOfPayent": {
+      "Type": 5,
+      "company": "ECSTASIA",
+      "date": "12-08-2014"
+    }
+  },
+  {
+    "index": 32,
+    "_id": "5c01097e122356a055540509",
+    "cost": "407.45",
+    "detailsOfPayent": {
+      "Type": 2,
+      "company": "CODAX",
+      "date": "18-04-2014"
+    }
+  },
+  {
+    "index": 33,
+    "_id": "5c01097e77f2537196731f82",
+    "cost": "327.52",
+    "detailsOfPayent": {
+      "Type": 1,
+      "company": "MANGELICA",
+      "date": "10-08-2014"
+    }
+  },
+  {
+    "index": 34,
+    "_id": "5c01097eb2073a9cd357b9e2",
+    "cost": "206.55",
+    "detailsOfPayent": {
+      "Type": 1,
+      "company": "ECSTASIA",
+      "date": "11-12-2014"
+    }
+  },
+  {
+    "index": 35,
+    "_id": "5c01097ed36ae3dfc5d6bbf7",
+    "cost": "479.71",
+    "detailsOfPayent": {
+      "Type": 5,
+      "company": "ECSTASIA",
+      "date": "02-03-2014"
+    }
+  },
+  {
+    "index": 36,
+    "_id": "5c01097e2843198e48db18da",
+    "cost": "930.2",
+    "detailsOfPayent": {
+      "Type": 2,
+      "company": "ECSTASIA",
+      "date": "25-02-2014"
+    }
+  },
+  {
+    "index": 37,
+    "_id": "5c01097e6377716c6f4acfb4",
+    "cost": "555.22",
+    "detailsOfPayent": {
+      "Type": 2,
+      "company": "ECSTASIA",
+      "date": "11-04-2014"
+    }
+  },
+  {
+    "index": 38,
+    "_id": "5c01097e43a15fa1a90b7bac",
+    "cost": "71.8",
+    "detailsOfPayent": {
+      "Type": 4,
+      "company": "ECSTASIA",
+      "date": "20-10-2014"
+    }
+  },
+  {
+    "index": 39,
+    "_id": "5c01097ee02839bec811f849",
+    "cost": "982.56",
+    "detailsOfPayent": {
+      "Type": 4,
+      "company": "ECSTASIA",
+      "date": "02-10-2014"
+    }
+  },
+  {
+    "index": 40,
+    "_id": "5c01097efce4035b8b35fae6",
+    "cost": "114.51",
+    "detailsOfPayent": {
+      "Type": 5,
+      "company": "CODAX",
+      "date": "05-08-2014"
+    }
+  },
+  {
+    "index": 41,
+    "_id": "5c01097eb29ab26ec13aa88b",
+    "cost": "730.01",
+    "detailsOfPayent": {
+      "Type": 2,
+      "company": "ECSTASIA",
+      "date": "23-04-2014"
+    }
+  },
+  {
+    "index": 42,
+    "_id": "5c01097e18e87e5405a3194e",
+    "cost": "22.12",
+    "detailsOfPayent": {
+      "Type": 5,
+      "company": "CODAX",
+      "date": "20-08-2014"
+    }
+  },
+  {
+    "index": 43,
+    "_id": "5c01097e7ca164e66618badd",
+    "cost": "341.45",
+    "detailsOfPayent": {
+      "Type": 4,
+      "company": "CODAX",
+      "date": "10-05-2014"
+    }
+  },
+  {
+    "index": 44,
+    "_id": "5c01097e91c591603b0b8466",
+    "cost": "618.28",
+    "detailsOfPayent": {
+      "Type": 2,
+      "company": "MANGELICA",
+      "date": "30-05-2014"
+    }
+  },
+  {
+    "index": 45,
+    "_id": "5c01097ed3c562c7c0e917c3",
+    "cost": "495.04",
+    "detailsOfPayent": {
+      "Type": 4,
+      "company": "ECSTASIA",
+      "date": "24-10-2014"
+    }
+  },
+  {
+    "index": 46,
+    "_id": "5c01097ed8adeffaf56be5d2",
+    "cost": 729,
+    "detailsOfPayent": {
+      "Type": 2,
+      "company": "MANGELICA",
+      "date": "13-05-2014"
+    }
+  },
+  {
+    "index": 47,
+    "_id": "5c01097e6776f3dbe69558b4",
+    "cost": "441.21",
+    "detailsOfPayent": {
+      "Type": 4,
+      "company": "MANGELICA",
+      "date": "02-07-2014"
+    }
+  },
+  {
+    "index": 48,
+    "_id": "5c01097e0645e33d56bc6bca",
+    "cost": "595.8",
+    "detailsOfPayent": {
+      "Type": 1,
+      "company": "MANGELICA",
+      "date": "08-06-2014"
+    }
+  },
+  {
+    "index": 49,
+    "_id": "5c01097ea56baee392f53929",
+    "cost": "707.26",
+    "detailsOfPayent": {
+      "Type": 4,
+      "company": "ECSTASIA",
+      "date": "08-07-2014"
+    }
+  },
+  {
+    "index": 50,
+    "_id": "5c01097ee378f79a6cca2bc2",
+    "cost": "989.25",
+    "detailsOfPayent": {
+      "Type": 1,
+      "company": "CODAX",
+      "date": "01-09-2014"
+    }
+  },
+  {
+    "index": 51,
+    "_id": "5c01097e8a4b389344a7a395",
+    "cost": "838.69",
+    "detailsOfPayent": {
+      "Type": 5,
+      "company": "MANGELICA",
+      "date": "28-10-2014"
+    }
+  },
+  {
+    "index": 52,
+    "_id": "5c01097e2747a9b91bcf219d",
+    "cost": "656.88",
+    "detailsOfPayent": {
+      "Type": 2,
+      "company": "MANGELICA",
+      "date": "01-12-2014"
+    }
+  },
+  {
+    "index": 53,
+    "_id": "5c01097e990f73a45d24aa54",
+    "cost": "126.95",
+    "detailsOfPayent": {
+      "Type": 4,
+      "company": "ECSTASIA",
+      "date": "05-08-2014"
+    }
+  },
+  {
+    "index": 54,
+    "_id": "5c01097e764ece5f67c6ebd3",
+    "cost": "905.44",
+    "detailsOfPayent": {
+      "Type": 5,
+      "company": "CODAX",
+      "date": "17-03-2014"
+    }
+  },
+  {
+    "index": 55,
+    "_id": "5c01097eb210bdc2f206ac71",
+    "cost": "672.32",
+    "detailsOfPayent": {
+      "Type": 1,
+      "company": "CODAX",
+      "date": "13-07-2014"
+    }
+  },
+  {
+    "index": 56,
+    "_id": "5c01097ed42bb15e55ab712e",
+    "cost": "148.41",
+    "detailsOfPayent": {
+      "Type": 2,
+      "company": "CODAX",
+      "date": "05-07-2014"
+    }
+  },
+  {
+    "index": 57,
+    "_id": "5c01097e5690b38fbfb51054",
+    "cost": "189.42",
+    "detailsOfPayent": {
+      "Type": 1,
+      "company": "CODAX",
+      "date": "10-07-2014"
+    }
+  },
+  {
+    "index": 58,
+    "_id": "5c01097ea6ff6f09a364285b",
+    "cost": "413.88",
+    "detailsOfPayent": {
+      "Type": 5,
+      "company": "CODAX",
+      "date": "17-12-2014"
+    }
+  },
+  {
+    "index": 59,
+    "_id": "5c01097e6a842d21d29dc93f",
+    "cost": "911.4",
+    "detailsOfPayent": {
+      "Type": 3,
+      "company": "CODAX",
+      "date": "09-10-2014"
+    }
+  },
+  {
+    "index": 60,
+    "_id": "5c01097e8daae9f658e11b87",
+    "cost": "259.67",
+    "detailsOfPayent": {
+      "Type": 1,
+      "company": "CODAX",
+      "date": "03-07-2014"
+    }
+  },
+  {
+    "index": 61,
+    "_id": "5c01097ef456f5fba56f0eec",
+    "cost": "393.09",
+    "detailsOfPayent": {
+      "Type": 5,
+      "company": "MANGELICA",
+      "date": "28-05-2014"
+    }
+  },
+  {
+    "index": 62,
+    "_id": "5c01097e55dfbe8e05da91d7",
+    "cost": "559.47",
+    "detailsOfPayent": {
+      "Type": 4,
+      "company": "CODAX",
+      "date": "03-02-2014"
+    }
+  },
+  {
+    "index": 63,
+    "_id": "5c01097e95f8e814c3e1d209",
+    "cost": "729.15",
+    "detailsOfPayent": {
+      "Type": 1,
+      "company": "MANGELICA",
+      "date": "23-09-2014"
+    }
+  },
+  {
+    "index": 64,
+    "_id": "5c01097e6153fdb3034e1667",
+    "cost": "914.76",
+    "detailsOfPayent": {
+      "Type": 4,
+      "company": "CODAX",
+      "date": "22-01-2014"
+    }
+  },
+  {
+    "index": 65,
+    "_id": "5c01097e19f66d0aa6aca6f7",
+    "cost": "480.72",
+    "detailsOfPayent": {
+      "Type": 1,
+      "company": "MANGELICA",
+      "date": "27-02-2014"
+    }
+  },
+  {
+    "index": 66,
+    "_id": "5c01097ecbd26ee8189e707e",
+    "cost": "146.29",
+    "detailsOfPayent": {
+      "Type": 2,
+      "company": "ECSTASIA",
+      "date": "28-10-2014"
+    }
+  },
+  {
+    "index": 67,
+    "_id": "5c01097ea5d787565e203dd5",
+    "cost": "440.71",
+    "detailsOfPayent": {
+      "Type": 5,
+      "company": "CODAX",
+      "date": "09-08-2014"
+    }
+  },
+  {
+    "index": 68,
+    "_id": "5c01097eeb2ca77a3ebe0683",
+    "cost": "489.19",
+    "detailsOfPayent": {
+      "Type": 5,
+      "company": "CODAX",
+      "date": "09-10-2014"
+    }
+  },
+  {
+    "index": 69,
+    "_id": "5c01097e28e3755eb6d5807c",
+    "cost": "895.73",
+    "detailsOfPayent": {
+      "Type": 4,
+      "company": "CODAX",
+      "date": "10-04-2014"
+    }
+  },
+  {
+    "index": 70,
+    "_id": "5c01097ecf0ea8e3ce1dd50a",
+    "cost": "573.21",
+    "detailsOfPayent": {
+      "Type": 1,
+      "company": "MANGELICA",
+      "date": "19-11-2014"
+    }
+  },
+  {
+    "index": 71,
+    "_id": "5c01097e8d49f393f79703e8",
+    "cost": "619.59",
+    "detailsOfPayent": {
+      "Type": 1,
+      "company": "CODAX",
+      "date": "30-01-2014"
+    }
+  },
+  {
+    "index": 72,
+    "_id": "5c01097ec6d4f1af6c66312b",
+    "cost": "210.59",
+    "detailsOfPayent": {
+      "Type": 4,
+      "company": "ECSTASIA",
+      "date": "08-01-2015"
+    }
+  },
+  {
+    "index": 73,
+    "_id": "5c01097e1af4f1895f188dd7",
+    "cost": "445.53",
+    "detailsOfPayent": {
+      "Type": 1,
+      "company": "MANGELICA",
+      "date": "30-07-2014"
+    }
+  },
+  {
+    "index": 74,
+    "_id": "5c01097edc144f232e426146",
+    "cost": "736.4",
+    "detailsOfPayent": {
+      "Type": 1,
+      "company": "CODAX",
+      "date": "13-10-2014"
+    }
+  },
+  {
+    "index": 75,
+    "_id": "5c01097e0501b94117b0e19b",
+    "cost": "294.09",
+    "detailsOfPayent": {
+      "Type": 1,
+      "company": "CODAX",
+      "date": "28-03-2014"
+    }
+  },
+  {
+    "index": 76,
+    "_id": "5c01097e07fee287a64f45d2",
+    "cost": "485.04",
+    "detailsOfPayent": {
+      "Type": 2,
+      "company": "ECSTASIA",
+      "date": "24-09-2014"
+    }
+  },
+  {
+    "index": 77,
+    "_id": "5c01097e84102bb284971904",
+    "cost": "522.45",
+    "detailsOfPayent": {
+      "Type": 1,
+      "company": "MANGELICA",
+      "date": "06-01-2015"
+    }
+  },
+  {
+    "index": 78,
+    "_id": "5c01097e176727d7aa653b5a",
+    "cost": "106.96",
+    "detailsOfPayent": {
+      "Type": 2,
+      "company": "ECSTASIA",
+      "date": "06-06-2014"
+    }
+  },
+  {
+    "index": 79,
+    "_id": "5c01097e28e19e7704d5932f",
+    "cost": "568.83",
+    "detailsOfPayent": {
+      "Type": 4,
+      "company": "MANGELICA",
+      "date": "13-04-2014"
+    }
+  },
+  {
+    "index": 80,
+    "_id": "5c01097e4bcd747284daae9d",
+    "cost": "835.15",
+    "detailsOfPayent": {
+      "Type": 3,
+      "company": "CODAX",
+      "date": "27-03-2014"
+    }
+  },
+  {
+    "index": 81,
+    "_id": "5c01097ec299f72673947d1a",
+    "cost": "70.15",
+    "detailsOfPayent": {
+      "Type": 4,
+      "company": "CODAX",
+      "date": "06-04-2014"
+    }
+  },
+  {
+    "index": 82,
+    "_id": "5c01097ef41879bb769a7107",
+    "cost": "733.63",
+    "detailsOfPayent": {
+      "Type": 1,
+      "company": "ECSTASIA",
+      "date": "15-08-2014"
+    }
+  },
+  {
+    "index": 83,
+    "_id": "5c01097e1c93171f1f2451ee",
+    "cost": "361.08",
+    "detailsOfPayent": {
+      "Type": 5,
+      "company": "ECSTASIA",
+      "date": "08-05-2014"
+    }
+  },
+  {
+    "index": 84,
+    "_id": "5c01097e6c2e12bc6c77f23d",
+    "cost": "52.26",
+    "detailsOfPayent": {
+      "Type": 3,
+      "company": "MANGELICA",
+      "date": "15-03-2014"
+    }
+  },
+  {
+    "index": 85,
+    "_id": "5c01097e7417be60ce7cf859",
+    "cost": "561.49",
+    "detailsOfPayent": {
+      "Type": 1,
+      "company": "MANGELICA",
+      "date": "05-09-2014"
+    }
+  },
+  {
+    "index": 86,
+    "_id": "5c01097eb3cb0b11e2fef210",
+    "cost": "171.26",
+    "detailsOfPayent": {
+      "Type": 5,
+      "company": "ECSTASIA",
+      "date": "15-11-2014"
+    }
+  },
+  {
+    "index": 87,
+    "_id": "5c01097e4d746805b024b7b4",
+    "cost": "140.26",
+    "detailsOfPayent": {
+      "Type": 3,
+      "company": "ECSTASIA",
+      "date": "14-11-2014"
+    }
+  },
+  {
+    "index": 88,
+    "_id": "5c01097e279b6bc6edbd2bf1",
+    "cost": "185.91",
+    "detailsOfPayent": {
+      "Type": 2,
+      "company": "MANGELICA",
+      "date": "06-09-2014"
+    }
+  },
+  {
+    "index": 89,
+    "_id": "5c01097e75012aed5281c1d0",
+    "cost": "381.96",
+    "detailsOfPayent": {
+      "Type": 4,
+      "company": "ECSTASIA",
+      "date": "02-12-2014"
+    }
+  },
+  {
+    "index": 90,
+    "_id": "5c01097e50e4e32df14fcc4e",
+    "cost": "67.8",
+    "detailsOfPayent": {
+      "Type": 4,
+      "company": "ECSTASIA",
+      "date": "23-11-2014"
+    }
+  },
+  {
+    "index": 91,
+    "_id": "5c01097e127a57a94bb2f9f3",
+    "cost": "721.06",
+    "detailsOfPayent": {
+      "Type": 4,
+      "company": "ECSTASIA",
+      "date": "22-01-2015"
+    }
+  },
+  {
+    "index": 92,
+    "_id": "5c01097e4e7b3f4054612691",
+    "cost": "845.91",
+    "detailsOfPayent": {
+      "Type": 1,
+      "company": "CODAX",
+      "date": "09-12-2014"
+    }
+  },
+  {
+    "index": 93,
+    "_id": "5c01097e49e1f00e10c47f79",
+    "cost": "302.65",
+    "detailsOfPayent": {
+      "Type": 1,
+      "company": "CODAX",
+      "date": "03-07-2014"
+    }
+  },
+  {
+    "index": 94,
+    "_id": "5c01097e8c6c555390cb3dba",
+    "cost": "599.94",
+    "detailsOfPayent": {
+      "Type": 5,
+      "company": "MANGELICA",
+      "date": "05-06-2014"
+    }
+  },
+  {
+    "index": 95,
+    "_id": "5c01097ee7b50db48e267483",
+    "cost": "812.79",
+    "detailsOfPayent": {
+      "Type": 5,
+      "company": "MANGELICA",
+      "date": "03-07-2014"
+    }
+  },
+  {
+    "index": 96,
+    "_id": "5c01097e970413334eb87d2c",
+    "cost": "876.45",
+    "detailsOfPayent": {
+      "Type": 2,
+      "company": "ECSTASIA",
+      "date": "02-07-2014"
+    }
+  },
+  {
+    "index": 97,
+    "_id": "5c01097ea166476796eacc9e",
+    "cost": "256.47",
+    "detailsOfPayent": {
+      "Type": 3,
+      "company": "ECSTASIA",
+      "date": "29-05-2014"
+    }
+  },
+  {
+    "index": 98,
+    "_id": "5c01097e2ed870f0bee0e97b",
+    "cost": "701.54",
+    "detailsOfPayent": {
+      "Type": 1,
+      "company": "MANGELICA",
+      "date": "18-02-2014"
+    }
+  },
+  {
+    "index": 99,
+    "_id": "5c01097ee72eb131942295cf",
+    "cost": "133.4",
+    "detailsOfPayent": {
+      "Type": 5,
+      "company": "MANGELICA",
+      "date": "28-09-2014"
+    }
+  }
+]
