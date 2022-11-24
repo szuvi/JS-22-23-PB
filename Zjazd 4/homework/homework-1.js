@@ -7,6 +7,6 @@ function getRandomPromise() {
   return; // Your solution here
 }
 
-getRandomPromise
+getRandomPromise()
   .then((result) => console.log('I expect this to be "Now I work": ', result))
   .catch((error) => console.log('I expect this to be "Now I don\'t": ', error));
